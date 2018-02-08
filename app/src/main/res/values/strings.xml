@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CoinWatch</string>
+    <string name="loading">Loading…</string>
+    <string name="price_gbp">Price GBP:</string>
+    <string name="change_24h">Change 24h:</string>
+    <string name="change_1h">Change 1h:</string>
+    <string name="change_7d">Change 7d:</string>
+    <string name="currency_detail">Currency Detail</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">currency name</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="currency_logo">currency logo</string>
+</resources>
